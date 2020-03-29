@@ -10,3 +10,4 @@ Guia practica sobre el lenguaje de programacion dart.
 3. [Operaciones aritmeticas](https://github.com/velascoandrs/Dart-101/blob/master/03-operaciones-aritmeticas/operaciones-aritmeticas.md)
 4. [Operaciones condicionales](https://github.com/velascoandrs/Dart-101/blob/master/04-operadores-condicionales/operaciones-condicionales.md)
 5. [Flujos de control](https://github.com/velascoandrs/Dart-101/blob/master/05-flujos-de-control/flujos-de-control.md)
+6. [Funciones](https://github.com/velascoandrs/Dart-101/blob/master/06-funciones/funciones.md)
