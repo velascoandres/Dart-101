@@ -1,5 +1,5 @@
 # Tipos de datos
-[Ir al indice principal]()
+[Ir al indice principal](https://github.com/velascoandrs/Dart-101/blob/master/README.md)
 
 Los tipos de datos son objetos. El que sean objetos indican que van a tener un valor por defecto igual a nulo
 
