@@ -11,4 +11,4 @@ Guia practica sobre el lenguaje de programacion dart.
 4. [Operaciones condicionales](https://github.com/velascoandrs/Dart-101/blob/master/04-operadores-condicionales/operaciones-condicionales.md)
 5. [Flujos de control](https://github.com/velascoandrs/Dart-101/blob/master/05-flujos-de-control/flujos-de-control.md)
 6. [Funciones](https://github.com/velascoandrs/Dart-101/blob/master/06-funciones/funciones.md)
-6. [Funciones](https://github.com/velascoandrs/Dart-101/blob/master/07-poo/poo.md)
+7. [Programacion Orientada a objetos](https://github.com/velascoandrs/Dart-101/blob/master/07-poo/poo.md)
