@@ -4,7 +4,7 @@
 
 # Variables y constantes
 
-##Indice
+## Indice
 1. [Variables](#variables)
 2. [Constantes](#constantes)
 4. [Variables tipadas](#variables-tipadas)
