@@ -1,17 +1,19 @@
 # Tipos de datos
+[Ir al indice principal]()
+
 Los tipos de datos son objetos. El que sean objetos indican que van a tener un valor por defecto igual a nulo
 
 ## Indice
 
-1. Numbers
+1. [Numbers](#numbers)
 
-2. String
+2. [String](#strings)
 
-3. Boolean
+3. [Boolean](#boolean)
 
-3. List
+4. [List](#list)
 
-4. Maps
+5. [Maps](#maps)
 
 
 
