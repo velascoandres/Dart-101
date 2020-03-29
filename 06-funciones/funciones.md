@@ -14,7 +14,7 @@
     
 2. [Parametros opcionales](#parametros-opcionales)
 
-    2.1. [Paremetros opcionales posicionales](#parametros-opcionales-posicionales)
+    2.1. [Paremetros opcionales por posicion](#parametros-opcionales-por-posicion)
     
     2.2. [Paremetros opcionales por nombre](#parametros-opcionales-por-nombre)
 
@@ -57,7 +57,7 @@ String saludarCorto(String nombre) => 'hola $nombre';
 
 Una funcion puede tener parametros opcionales y estos pueden ser posicionales o por nombre.
 
-#### Parametros opcionales posicionales
+#### Parametros opcionales por posicion
 
 Se definen estos parametros dentro de corchetes `[]`. Como su nombre lo indica
 para llamar a la funcion tenemos que poner sus parametros de acuerdo la posicion
